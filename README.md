@@ -9,7 +9,7 @@ A plugin that allows you to create a new window with multiple panes with ease.
 
 Add the plugin in `.tmux.conf`:
 ```
-set -g @plugin 'xamut/tmux-spotify'
+set -g @plugin 'cwjiee/tmux-splitw'
 ```
 Press `prefix + I` to fetch the plugin and source it. Done.
 
