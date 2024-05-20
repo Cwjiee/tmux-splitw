@@ -46,5 +46,3 @@ show_menu() {
     "Close menu" q "" \
   )
 }
-
-show_menu
